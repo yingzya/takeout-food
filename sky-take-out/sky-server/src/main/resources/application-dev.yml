@@ -1,0 +1,37 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port:
+    database: #数据库
+    username: #用户名
+    password: #sql密码
+
+  alioss:
+    endpoint: #填写你的阿里oss的区域
+    access-key-id: #填写你的阿里oss的id
+    access-key-secret: #填写你的阿里oss的密钥
+    bucket-name: takeout-food
+
+  redis:
+    host: localhost
+    port: 
+    password: #填写你的密码
+    database: 0
+
+  wechat: #跟着黑马教程填即可，将小程序id换成你自己的
+    appid:
+    secret:
+    mchid:
+    mchSerialNo:
+    privateKeyFilePath:
+    apiV3Key:
+    weChatPayCertFilePath:
+    notifyUrl:  #回调地址
+    refundNotifyUrl:
+
+  shop:
+   address:
+
+  baidu:
+   ak: #填写你的百度地图的API
