@@ -7,7 +7,7 @@
 
 你只需要替换自己的 API 密钥即可完整运行本项目。
 
-📘 配套文档笔记：[《苍穹外卖》在线阅读](https://yingzya.github.io/posts/44e4c2a4.html)
+📘 配套文档笔记：[《苍穹外卖》在线阅读](https://yingzya.top/2025/sky_takeaway)
 
 <p>
   <a href="https://github.com/yingzya/takeout-food/raw/main/document/苍穹外卖.pdf">
